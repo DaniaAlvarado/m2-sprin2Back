@@ -1,0 +1,53 @@
+{
+    "vuelos": [
+      {
+          "id": 1,
+        "origen": "Medellin",
+        "destino": "Cali",
+        "dateRegreso": "2022-10-28",
+        "dateSalida": "2022-10-28",
+        "time":"5:20 pm - 7:50 pm"
+      },
+      {
+          "id": 2,
+        "origen": "Medellin",
+        "destino": "Cali",
+        "dateRegreso": "2022-10-28",
+        "dateSalida": "2022-10-28",
+        "time":"6:30 pm - 8:20 pm"
+      },
+      {
+          "id": 3,
+        "origen": "Bogota",
+        "destino": "Medellin",
+        "dateRegreso": "2022-10-30",
+        "dateSalida": "2022-10-30",
+        "time":"2:10 pm - 3:10 pm"
+      },
+      {
+          "id": 4,
+        "origen": "Bogota",
+        "destino": "Cali",
+        "dateRegreso": "2022-10-31",
+        "dateSalida": "2022-10-31",
+        "time":"4:30 pm - 6:30 pm"
+      },
+      {
+          "id": 5,
+        "origen": "Cali",
+        "destino": "Medellin",
+        "dateRegreso": "2022-11-1",
+        "dateSalida": "2022-11-1",
+        "time":"8:00 pm - 10:00 pm"
+      },
+      {
+          "id": 6,
+        "origen": "Cali",
+        "destino": "Medellin",
+        "dateRegreso": "2022-11-2",
+        "dateSalida": "2022-11-2",
+        "time":"9:30 am - 11:30 am"
+      }
+      
+    ]
+  }
