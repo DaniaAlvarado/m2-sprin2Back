@@ -4,49 +4,55 @@
           "id": 1,
         "origen": "Medellin",
         "destino": "Cali",
-        "dateRegreso": "2022-10-28",
-        "dateSalida": "2022-10-28",
-        "time":"5:20 pm - 7:50 pm"
+        "dateRegreso": "2022-10-31",
+        "dateSalida": "2022-10-31",
+        "time":"5:20 pm - 7:50 pm",
+        "valor": 200000
       },
       {
           "id": 2,
         "origen": "Medellin",
         "destino": "Cali",
-        "dateRegreso": "2022-10-28",
-        "dateSalida": "2022-10-28",
-        "time":"6:30 pm - 8:20 pm"
+        "dateRegreso": "2022-10-31",
+        "dateSalida": "2022-10-31",
+        "time":"6:30 pm - 8:20 pm",
+        "valor": 150000
       },
       {
           "id": 3,
         "origen": "Bogota",
         "destino": "Medellin",
-        "dateRegreso": "2022-10-30",
-        "dateSalida": "2022-10-30",
-        "time":"2:10 pm - 3:10 pm"
+        "dateRegreso": "2022-11-01",
+        "dateSalida": "2022-11-01",
+        "time":"2:10 pm - 3:10 pm",
+        "valor": 200000
       },
       {
           "id": 4,
         "origen": "Bogota",
-        "destino": "Cali",
-        "dateRegreso": "2022-10-31",
-        "dateSalida": "2022-10-31",
-        "time":"4:30 pm - 6:30 pm"
+        "destino": "Bucaramanga",
+        "dateRegreso": "2022-11-01",
+        "dateSalida": "2022-11-01",
+        "time":"4:30 pm - 6:30 pm",
+        "valor": 180000
       },
       {
           "id": 5,
         "origen": "Cali",
-        "destino": "Medellin",
-        "dateRegreso": "2022-11-1",
-        "dateSalida": "2022-11-1",
-        "time":"8:00 pm - 10:00 pm"
+        "destino": "Monteria",
+        "dateRegreso": "2022-11-02",
+        "dateSalida": "2022-11-02",
+        "time":"8:00 pm - 10:00 pm",
+        "valor": 100000
       },
       {
           "id": 6,
         "origen": "Cali",
         "destino": "Medellin",
-        "dateRegreso": "2022-11-2",
-        "dateSalida": "2022-11-2",
-        "time":"9:30 am - 11:30 am"
+        "dateRegreso": "2022-11-02",
+        "dateSalida": "2022-11-02",
+        "time":"9:30 am - 11:30 am",
+        "valor": 100000
       }
       
     ]
